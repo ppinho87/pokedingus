@@ -1,0 +1,163 @@
+{  
+  "main":{
+    "contact":{
+      "name":"Pokedingus",
+      "description":"TCG Vendor",
+      "image":"drowzee.png",
+      "bio":"We are lifelong Pokémon enthusiasts specializing in premium Pokémon cards, collectibles. Our passion is helping collectors discover authentic cards, preserve valuable pieces of the hobby, and make informed buying decisions. Whether sourcing rare vintage cards, or building high-end collections, We combine attention to detail with transparency to provide an exceptional experience for every customer.",
+      "address":{
+        "city":"Bridgewater",
+        "state":"New Jersey"
+      },
+      "social":[
+        {
+          "name":"facebook",
+          "url":"https://www.facebook.com/paul.pinho.1",
+          "className":"fa fa-facebook"
+        },
+        {
+          "name":"github",
+          "url":"https://github.com/ppinho87",
+          "className":"fa fa-github"
+        },
+        {
+          "name":"instagram",
+          "url":"https://www.instagram.com/p.pinho87",
+          "className":"fa fa-instagram"
+        },
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/ppinho87",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"reddit",
+          "url":"https://www.reddit.com/",
+          "className":"fa fa-reddit"
+        },
+        {
+          "name":"stack-overflow",
+          "url":"https://stackoverflow.com/",
+          "className":"fa fa-stack-overflow"
+        },
+        {
+          "name":"twitter",
+          "url":"http://twitter.com",
+          "className":"fa fa-twitter"
+        }
+      ]
+    },
+    "resume":{
+      "work":[
+        {
+          "company":"Pokedingus",
+          "title":"Pokémon Card Specialist",
+          "years":"January 2021 – Current",
+          "description":"Buy, sell, and source authentic Pokémon cards ranging from modern releases to vintage collectibles. Research market trends, population reports, and historical pricing to accurately evaluate cards. Maintain strict authenticity standards to protect collectors from counterfeits. Build lasting relationships with collectors through honest communication and exceptional customer service. Manage inventory, online sales, secure packaging, and worldwide shipping.",
+          "location":"Bridgewater, New Jersey"
+        }
+      ],
+      "skills":[
+        {
+          "name":"Pokémon Card Authentication",
+          "level":5
+        },
+        {
+          "name":"Vintage & Modern Card Knowledge",
+          "level":5
+        },
+        {
+          "name":"Collection Appraisals",
+          "level":5
+        },
+        {
+          "name":"Market Analysis & Pricing",
+          "level":5
+        },
+        {
+          "name":"PSA, BGS & CGC Grading Preparation",
+          "level":5
+        },
+        {
+          "name":"eBay/TCGPlayer Marketplace Expertise",
+          "level":5
+        },
+        {
+          "name":"Rare Card Sourcing",
+          "level":5
+        },
+
+        {
+          "name":"Secure Packaging & Shipping",
+          "level":5
+        },
+        {
+          "name":"Inventory Management",
+          "level":5
+        },
+        {
+          "name":"High-Value Trading",
+          "level":5
+        },
+        {
+          "name":"Photography & Product Listings",
+          "level":5
+        },
+        {
+          "name":"Collectible Investment Research",
+          "level":5
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"Pokemon Battle Frontier",
+          "description":"Pokemon game in the model of Battle Ship.",
+          "tags":"Development, React.js, Javascrip, Python",
+          "image":"pokemon-battle-frontier.jpg",
+          "url":"http://pokemon-battle-frontier.herokuapp.com/"
+        },
+        {
+          "title":"Hangman",
+          "description":"Hangman game based on Marvel characters.",
+          "tags":"Development, Bootstrap, Javascript",
+          "image":"marvel-hangman.jpg",
+          "url":"https://ppinho87.github.io/marvel-hangman/"
+        },
+        {
+          "title":"Movie Search",
+          "description":"Marvel Theme Movie Search.",
+          "tags":"Development, Materialize, API's",
+          "image":"movie-search.jpg",
+          "url":"https://ppinho87.github.io/movie-search/"
+        },
+        {
+          "title":"Infinity War",
+          "description":"An online game specially for the Infinity Stones.",
+          "tags":"Development, Bootstrap, JQuery",
+          "image":"infinity-gauntlet.jpg",
+          "url":"https://ppinho87.github.io/infinity-war/"
+        }
+      ]
+    },
+    "quotes":{
+      "experienceSection":{
+        "quote":"Helping collectors discover, preserve, and own the cards they've always dreamed of."
+      },
+      "abilitySection":{
+        "quote":"The important thing is not how long you live, it's what you accomplish with your life. When I live, I want to shine.",
+        "author":"Grovyle",
+        "source":"Pokémon Mystery Dungeon"
+      },
+      "inventorySection":{
+        "quote":"You can do anything you set your mind to.",
+        "author":"Benjamin Franklin"
+      },
+      "contactSection":{
+        "quote":"If I had asked people what they wanted, they would have said faster horses.",
+        "author":"Henry Ford"
+      }
+    }
+  }
+}
