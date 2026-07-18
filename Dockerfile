@@ -17,7 +17,7 @@ FROM nginx:1.27-alpine
 
 # Copy the build output to Nginx's default public directory
 # NOTE: Change "dist" to "build" if using older Create React App (CRA)
-COPY --from=builder /app/dist /usr/share/nginx/html
+COPY --from=builder /app/build /usr/share/nginx/html
 
 # Copy custom Nginx configuration if you have client-side routing
 # COPY nginx.conf /etc/nginx/conf.d/default.conf
