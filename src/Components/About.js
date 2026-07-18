@@ -4,9 +4,9 @@ class About extends Component {
    render() {
 
       if(this.props.data){
-         var name = this.props.data.contact.name;
          var profilepic= "images/" + this.props.data.contact.image;
          var bio = this.props.data.contact.bio;
+         var occupation = this.props.data.contact.occupation;
          var city = this.props.data.contact.address.city;
          var state = this.props.data.contact.address.state;
       }
@@ -15,10 +15,11 @@ class About extends Component {
          <div className="background-white">
             <div id="profile" className="container">
                <h2>Profile</h2>
+               <p className="lead">{occupation}</p>
                <hr/>
                <div className="row">
                   <div className="col-md-4 text-center">
-                     <img src={profilepic} alt="Pokedingus" width="246" height="246" />
+                     <img src={profilepic} alt="Pokédingus" width="246" height="246" />
                   </div>					
                </div>
                <div className="row">

@@ -3,18 +3,11 @@ import React, { Component } from 'react';
 class Contact extends Component {
   render() {
 
-    if(this.props.data){
-      var quote = this.props.data.quotes.contactSection.quote;
-      var author = this.props.data.quotes.contactSection.author;
-    }
-
     return (
       <div className="background-gray">
          <div id="contact" className="container">
 				<h2>Contact</h2>
-				<p className="lead">
-					&ldquo;{quote} &rdquo;<br />- {author}
-				</p><hr/>
+				<p className="lead"></p><hr/>
             <div className="row" id="contact-div">
 				   <form className="col s12" id="contact-form" action="./php/send.php" method="POST">
 				    	<div className="row">
@@ -49,7 +42,7 @@ class Contact extends Component {
                            <input id="company" name="company" type="text" className="validate" required></input>
                            <span className="highlight"></span>
                            <span className="bar"></span>
-                           <label for="company">Company</label>
+                           <label for="company">Company (optional)</label>
                         </div>
                      </div>
                   </div>

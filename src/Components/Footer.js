@@ -21,7 +21,7 @@ class Footer extends Component {
               {networks}
             </ul>
             <ul className="copyright">
-              <li>&copy; Copyright 2018 Paul Pinho</li>
+              <li>&copy; Copyright 2021 Pokédingus</li>
             </ul>
           </div>
           <div id="go-top">

@@ -34,7 +34,7 @@ class Header extends Component {
                   <li className="active"><a href="#profile">Profile</a></li>
                   <li><a href="#Experience">Experience</a></li>
                   <li><a href="#abilities">Skills</a></li>
-                  <li><a href="#projects">Inventory</a></li>
+                  <li><a href="#projects">Social</a></li>
                   <li><a href="#contact">Contact</a></li>
                </ul>
             </div>

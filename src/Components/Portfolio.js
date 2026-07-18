@@ -4,9 +4,6 @@ class Portfolio extends Component {
   render() {
 
     if(this.props.data){
-      var quote = this.props.data.quotes.inventorySection.quote;
-      var author = this.props.data.quotes.inventorySection.author;
-
       var projects = this.props.data.portfolio.projects.map(function(projects){
         var projectImage = 'images/' + projects.image;
 
@@ -16,7 +13,6 @@ class Portfolio extends Component {
             <figcaption>
               <h3>{projects.title}</h3>
               <p>{projects.description}</p>
-              <p><strong>Tags:</strong> <br/>{projects.tags}</p>
               <a href={projects.url} target="_blank">View more</a>
               <span className="icon">
                 <span className="glyphicon glyphicon-new-window"></span>
@@ -29,10 +25,8 @@ class Portfolio extends Component {
 
     return (
       <div id="projects" className="container">
-        <h2>Inventory</h2>
-        <p className="lead">
-          &ldquo;{quote}&rdquo;<br/>- {author}
-        </p><hr/>
+        <h2>Social</h2>
+        <p className="lead"></p><hr/>
         <div className="row">
           {projects}
         </div>

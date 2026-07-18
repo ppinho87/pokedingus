@@ -1,7 +1,8 @@
 {  
   "main":{
     "contact":{
-      "name":"Pokedingus",
+      "name":"Pokédingus",
+      "occupation":"The Biggest Dingus in Pokémon",
       "description":"TCG Vendor",
       "image":"drowzee.png",
       "bio":"We are lifelong Pokémon enthusiasts specializing in premium Pokémon cards, collectibles. Our passion is helping collectors discover authentic cards, preserve valuable pieces of the hobby, and make informed buying decisions. Whether sourcing rare vintage cards, or building high-end collections, We combine attention to detail with transparency to provide an exceptional experience for every customer.",
@@ -11,46 +12,21 @@
       },
       "social":[
         {
-          "name":"facebook",
-          "url":"https://www.facebook.com/paul.pinho.1",
-          "className":"fa fa-facebook"
-        },
-        {
-          "name":"github",
-          "url":"https://github.com/ppinho87",
-          "className":"fa fa-github"
-        },
-        {
           "name":"instagram",
-          "url":"https://www.instagram.com/p.pinho87",
+          "url":"https://www.instagram.com/Pokédingus?igsh=MXhoODZ0b2dwMTRocA==",
           "className":"fa fa-instagram"
         },
         {
-          "name":"linkedin",
-          "url":"https://www.linkedin.com/in/ppinho87",
-          "className":"fa fa-linkedin"
-        },
-        {
-          "name":"reddit",
-          "url":"https://www.reddit.com/",
-          "className":"fa fa-reddit"
-        },
-        {
-          "name":"stack-overflow",
-          "url":"https://stackoverflow.com/",
-          "className":"fa fa-stack-overflow"
-        },
-        {
-          "name":"twitter",
-          "url":"http://twitter.com",
-          "className":"fa fa-twitter"
+          "name":"youtube",
+          "url":"https://www.youtube.com/@Pokédingus",
+          "className":"fa fa-youtube-play"
         }
       ]
     },
     "resume":{
       "work":[
         {
-          "company":"Pokedingus",
+          "company":"Pokédingus",
           "title":"Pokémon Card Specialist",
           "years":"January 2021 – Current",
           "description":"Buy, sell, and source authentic Pokémon cards ranging from modern releases to vintage collectibles. Research market trends, population reports, and historical pricing to accurately evaluate cards. Maintain strict authenticity standards to protect collectors from counterfeits. Build lasting relationships with collectors through honest communication and exceptional customer service. Manage inventory, online sales, secure packaging, and worldwide shipping.",
@@ -112,32 +88,28 @@
     "portfolio":{
       "projects": [
         {
-          "title":"Pokemon Battle Frontier",
-          "description":"Pokemon game in the model of Battle Ship.",
-          "tags":"Development, React.js, Javascrip, Python",
-          "image":"pokemon-battle-frontier.jpg",
-          "url":"http://pokemon-battle-frontier.herokuapp.com/"
+          "title":"Youtube",
+          "description":"Your destination for everything Trading Card Games (TCG)!",
+          "image":"youtube.jpg",
+          "url":"https://m.youtube.com/%40Pokédingus?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcATHW7VleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaf0eta9KjdPP8c9AMBX1BErT1rbgLEQJz4VQIkX7qzVxbODJGP26EXdHeLByg_aem_L8zhCOf15PzmoKOI9lXnjw"
         },
         {
-          "title":"Hangman",
-          "description":"Hangman game based on Marvel characters.",
-          "tags":"Development, Bootstrap, Javascript",
-          "image":"marvel-hangman.jpg",
-          "url":"https://ppinho87.github.io/marvel-hangman/"
+          "title":"Instagram",
+          "description":"Social media presence for sharing Pokémon content.",
+          "image":"instagram.jpg",
+          "url":"https://www.instagram.com/Pokédingus?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGn9HrWvSo3Tz_HPQDAV9QRK09a24CxECc-FUCJF-6s1cWzgyRj9uhF3R3iwco_aem_L8zhCOf15PzmoKOI9lXnjw"
         },
         {
-          "title":"Movie Search",
-          "description":"Marvel Theme Movie Search.",
-          "tags":"Development, Materialize, API's",
-          "image":"movie-search.jpg",
-          "url":"https://ppinho87.github.io/movie-search/"
+          "title":"Ebay",
+          "description":"Online store for buying and selling Pokémon cards and collectibles.",
+          "image":"ebay.jpg",
+          "url":"https://www.ebay.com/usr/foragedandflipped?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGn9HrWvSo3Tz_HPQDAV9QRK09a24CxECc-FUCJF-6s1cWzgyRj9uhF3R3iwco_aem_L8zhCOf15PzmoKOI9lXnjw"
         },
         {
-          "title":"Infinity War",
-          "description":"An online game specially for the Infinity Stones.",
-          "tags":"Development, Bootstrap, JQuery",
-          "image":"infinity-gauntlet.jpg",
-          "url":"https://ppinho87.github.io/infinity-war/"
+          "title":"Whatnot",
+          "description":"Live auction platform for buying and selling Pokémon cards and collectibles. Invitation from Pokédingus for $15 credit.",
+          "image":"whatnot.jpg",
+          "url":"https://www.whatnot.com/invite/Pokédingus?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcATHW_dleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaf0eta9KjdPP8c9AMBX1BErT1rbgLEQJz4VQIkX7qzVxbODJGP26EXdHeLByg_aem_L8zhCOf15PzmoKOI9lXnjw"
         }
       ]
     },
@@ -150,7 +122,7 @@
         "author":"Grovyle",
         "source":"Pokémon Mystery Dungeon"
       },
-      "inventorySection":{
+      "socialSection":{
         "quote":"You can do anything you set your mind to.",
         "author":"Benjamin Franklin"
       },
