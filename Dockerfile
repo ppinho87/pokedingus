@@ -16,12 +16,11 @@ RUN npm run build
 FROM nginx:1.27-alpine
 
 # Copy the build output to Nginx's default public directory
-# NOTE: Change "dist" to "build" if using older Create React App (CRA)
 COPY --from=builder /app/build /usr/share/nginx/html
 
-# Copy custom Nginx configuration if you have client-side routing
-# COPY nginx.conf /etc/nginx/conf.d/default.conf
+# Configure Nginx to listen on port 8080
+RUN sed -i 's/listen\(.*\)80;/listen 8080;/g' /etc/nginx/conf.d/default.conf
 
-EXPOSE 80
+EXPOSE 8080
 
 CMD ["nginx", "-g", "daemon off;"]
