@@ -5,7 +5,7 @@
       "occupation":"The Biggest Dingus in Pokémon",
       "description":"TCG Vendor",
       "image":"drowzee.png",
-      "bio":"We are lifelong Pokémon enthusiasts specializing in premium Pokémon cards, collectibles. Our passion is helping collectors discover authentic cards, preserve valuable pieces of the hobby, and make informed buying decisions. Whether sourcing rare vintage cards, or building high-end collections, We combine attention to detail with transparency to provide an exceptional experience for every customer.",
+      "bio":"We are lifelong Pokémon enthusiasts specializing in premium Pokémon cards and collectibles. Our passion is helping collectors discover authentic cards, preserve valuable pieces of the hobby, and make informed buying decisions. Whether sourcing rare vintage cards, or building high-end collections, We combine attention to detail with transparency to provide an exceptional experience for every customer.",
       "address":{
         "city":"Bridgewater",
         "state":"New Jersey"
@@ -13,7 +13,7 @@
       "social":[
         {
           "name":"instagram",
-          "url":"https://www.instagram.com/Pokédingus?igsh=MXhoODZ0b2dwMTRocA==",
+          "url":"https://www.instagram.com/pokedingus/",
           "className":"fa fa-instagram"
         },
         {
@@ -97,7 +97,7 @@
           "title":"Instagram",
           "description":"Social media presence for sharing Pokémon content.",
           "image":"instagram.jpg",
-          "url":"https://www.instagram.com/Pokédingus?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGn9HrWvSo3Tz_HPQDAV9QRK09a24CxECc-FUCJF-6s1cWzgyRj9uhF3R3iwco_aem_L8zhCOf15PzmoKOI9lXnjw"
+          "url":"https://www.instagram.com/pokedingus/"
         },
         {
           "title":"Ebay",
