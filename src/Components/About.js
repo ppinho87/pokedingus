@@ -19,7 +19,7 @@ class About extends Component {
                <hr/>
                <div className="row">
                   <div className="col-md-4 text-center">
-                     <img src={profilepic} alt="Pokédingus" width="246" height="246" />
+                     <img src={profilepic} alt="Pokedingus" width="246" height="246" />
                   </div>					
                </div>
                <div className="row">
